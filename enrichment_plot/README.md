@@ -13,4 +13,4 @@ plot_enrichment(scores, gene_set, name="Example enrichment")
 dev.off()
 ```
 
-![alt text](https://github.com/konsolerr/utils/raw/master/src/enrichment_plot/example.png "Example of enrichment plot")
+![alt text](https://github.com/konsolerr/utils/blob/master/enrichment_plot/example.png "Example of enrichment plot")
